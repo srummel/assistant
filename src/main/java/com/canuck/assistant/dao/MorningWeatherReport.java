@@ -5,6 +5,7 @@
 package com.canuck.assistant.dao;
 
 import com.canuck.assistant.domain.Action;
+import com.canuck.assistant.domain.Response;
 
 /**
  *
@@ -16,6 +17,15 @@ public class MorningWeatherReport extends Action {
  public MorningWeatherReport(){
      super(WEATHER__SERVICE_NAME);
  }
-    
-    
+
+
+    @Override
+    public Response execute() {
+        return null;
+    }
+
+    @Override
+    public void processResponse(Response response) {
+
+    }
 }

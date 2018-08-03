@@ -10,6 +10,6 @@ package com.canuck.assistant.domain.activities;
  *
  * @author Shawn
  */
-public class SuccessCriteria extends Criteria{
+public class SuccessCriteria {
     
 }

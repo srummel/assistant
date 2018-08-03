@@ -41,7 +41,7 @@ public class FinanceGoalTest extends TestCase {
         
         // Create data table to display to overview report
         // define success criteria
-        Criteria outgo = new FinancialOutGo();
+//        Criteria outgo = new FinancialOutGo();
         
         
         // Need to determine core data to return
