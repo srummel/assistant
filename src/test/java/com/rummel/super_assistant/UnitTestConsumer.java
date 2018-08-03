@@ -4,7 +4,7 @@
  */
 package com.rummel.super_assistant;
 
-import com.rummel.assistant.domain.Consumer;
+import com.canuck.assistant.domain.Consumer;
 
 /**
  *

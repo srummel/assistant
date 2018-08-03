@@ -4,8 +4,9 @@
  */
 package com.rummel.assistant.services;
 
-import com.rummel.assistant.domain.Activity;
-import com.rummel.assistant.interfaces.Cost;
+import com.canuck.assistant.domain.Activity;
+import com.canuck.assistant.interfaces.Cost;
+import com.canuck.assistant.services.TaskService;
 import com.sun.jmx.snmp.tasks.Task;
 import junit.framework.Test;
 import junit.framework.TestCase;

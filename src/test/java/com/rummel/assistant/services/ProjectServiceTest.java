@@ -4,7 +4,8 @@
  */
 package com.rummel.assistant.services;
 
-import com.rummel.assistant.domain.Project;
+import com.canuck.assistant.domain.Project;
+import com.canuck.assistant.services.ProjectService;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

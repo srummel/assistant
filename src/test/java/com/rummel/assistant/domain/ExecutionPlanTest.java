@@ -4,6 +4,8 @@
  */
 package com.rummel.assistant.domain;
 
+import com.canuck.assistant.domain.ExecutionPlan;
+import com.canuck.assistant.domain.Plan;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

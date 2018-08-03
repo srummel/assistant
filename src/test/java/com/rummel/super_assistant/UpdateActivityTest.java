@@ -4,12 +4,10 @@
  */
 package com.rummel.super_assistant;
 
-import com.rummel.assistant.dao.MorningWeatherReport;
-import com.rummel.assistant.domain.Consumer;
-import com.rummel.assistant.domain.Action;
-import com.rummel.assistant.domain.Activity;
-import com.rummel.assistant.domain.Response;
-import com.rummel.assistant.services.ActivityService;
+import com.canuck.assistant.dao.MorningWeatherReport;
+import com.canuck.assistant.domain.Action;
+import com.canuck.assistant.domain.Response;
+import com.canuck.assistant.services.ActivityService;
 import java.util.List;
 import junit.framework.Test;
 import junit.framework.TestCase;

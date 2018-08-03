@@ -4,8 +4,9 @@
  */
 package com.rummel.assistant.associations;
 
-import com.rummel.assistant.domain.Task;
-import com.rummel.assistant.domain.User;
+import com.canuck.assistant.associations.UserTasks;
+import com.canuck.assistant.domain.Task;
+import com.canuck.assistant.domain.User;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

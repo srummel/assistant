@@ -4,7 +4,9 @@
  */
 package com.rummel.assistant.domain;
 
-import com.rummel.assistant.interfaces.Cost;
+import com.canuck.assistant.domain.Project;
+import com.canuck.assistant.domain.Task;
+import com.canuck.assistant.interfaces.Cost;
 import java.util.List;
 import junit.framework.Test;
 import junit.framework.TestCase;

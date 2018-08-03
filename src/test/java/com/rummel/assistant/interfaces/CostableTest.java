@@ -4,7 +4,9 @@
  */
 package com.rummel.assistant.interfaces;
 
-import com.rummel.assistant.domain.Event;
+import com.canuck.assistant.domain.Event;
+import com.canuck.assistant.interfaces.Cost;
+import com.canuck.assistant.interfaces.Costable;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

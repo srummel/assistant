@@ -4,8 +4,9 @@
  */
 package com.rummel.assistant.services;
 
-import com.rummel.assistant.domain.OpportunityCost;
-import com.rummel.assistant.domain.Task;
+import com.canuck.assistant.domain.OpportunityCost;
+import com.canuck.assistant.domain.Task;
+import com.canuck.assistant.services.CostService;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
